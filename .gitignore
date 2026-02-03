@@ -45,3 +45,7 @@ web_modules/
 # .idea/
 # .vscode/
 
+/.idea/.gitignore
+/.idea/helloWorld.iml
+/.idea/modules.xml
+/.idea/vcs.xml
